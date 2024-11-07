@@ -1,4 +1,4 @@
-# LOGIN PAGE
+# SIGN UP PAGE
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/OP-Sukhera/pen/gOVByOe](https://codepen.io/OP-Sukhera/pen/gOVByOe).
+A Pen created on CodePen.io. Original URL: [https://codepen.io/OP-Sukhera/pen/JjgmVWN](https://codepen.io/OP-Sukhera/pen/JjgmVWN).
 
